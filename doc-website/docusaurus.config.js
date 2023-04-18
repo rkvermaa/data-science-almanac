@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'DIY Data science Almanac',
+  tagline: 'From beginner to expert, our data science almanac has everything you need',
+  favicon: 'img/rkvAvatar.ico', //'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://rkvermaa.github.io',
@@ -69,7 +69,7 @@ const config = {
         title: 'My Site',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/rkvAvatar.png', //'img/logo.svg',
         },
         items: [
           {
