@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rkvermaa.github.io/data-science-almanac/blog</id>
-    <title>My Site Blog</title>
+    <title>DIY Data science Almanac Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rkvermaa.github.io/data-science-almanac/blog"/>
-    <subtitle>My Site Blog</subtitle>
-    <icon>https://rkvermaa.github.io/data-science-almanac/img/favicon.ico</icon>
+    <subtitle>DIY Data science Almanac Blog</subtitle>
+    <icon>https://rkvermaa.github.io/data-science-almanac/img/rkvAvatar.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://rkvermaa.github.io/data-science-almanac/blog/welcome</id>
